@@ -62,10 +62,10 @@ class YongHo:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=2dydgh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2dydgh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=2dydgh&theme=tokyonight&hide_border=true&background=0d1117" />
@@ -92,14 +92,14 @@ class YongHo:
 
 <br/>
 
-## 👀 Visitor Count
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/2dydgh/count.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2dydgh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=5BC8F5&line=5BC8F5&point=ffffff" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn" />
 </div>
