@@ -1,12 +1,12 @@
 <!-- 타이핑 애니메이션 소개글 -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=2dydgh&color=5BC8F5&style=flat-square&label=VISITORS" alt="2dydgh" />
+</div>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5BC8F5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+YongHo+Lee+%F0%9F%91%8B;Welcome+to+my+GitHub!+%E2%9C%A8;Vision+AI+Engineer+%F0%9F%94%AD;Python+%26+TypeScript+Lover+%F0%9F%90%8D;Published+in+Applied+Soft+Computing+%F0%9F%93%84;Always+learning+new+things+%E2%9C%A8" alt="Typing SVG" />
   </a>
-</div>
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=2dydgh&color=5BC8F5&style=flat-square&label=VISITORS" alt="2dydgh" />
 </div>
 
 <br/>
