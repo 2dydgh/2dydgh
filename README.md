@@ -1,7 +1,7 @@
 <!-- 타이핑 애니메이션 소개글 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5BC8F5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+YongHo+Lee+%F0%9F%91%8B;Dongguk+Univ.+%7C+Vision+AI+%F0%9F%94%AD;Python+%26+TypeScript+Lover+%F0%9F%90%8D;Published+in+Applied+Soft+Computing+%F0%9F%93%84;Always+learning+new+things+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5BC8F5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+YongHo+Lee+%F0%9F%91%8B;Welcome+to+my+GitHub!+%E2%9C%A8;Vision+AI+Engineer+%F0%9F%94%AD;Python+%26+TypeScript+Lover+%F0%9F%90%8D;Published+in+Applied+Soft+Computing+%F0%9F%93%84;Always+learning+new+things+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -9,7 +9,7 @@
 
 <!-- 소개 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=Welcome+to+my+GitHub!&fontSize=30&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24,5BC8F5&height=200&section=header&text=Vision%20AI%20Engineer&fontSize=45&fontColor=5BC8F5&animation=fadeIn" />
 </div>
 
 ## 🙋‍♂️ About Me
@@ -101,5 +101,5 @@ class YongHo:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24,5BC8F5&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontColor=5BC8F5&animation=fadeIn" />
 </div>
