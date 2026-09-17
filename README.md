@@ -1,12 +1,12 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=2dydgh&amp;color=61DAFB&amp;style=flat-square&amp;label=VISITORS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=2dydgh&amp;color=67C7E8&amp;style=flat-square&amp;label=VISITORS" alt="Profile views" />
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:24104F,50:5735B8,100:2563EB&amp;height=190&amp;section=header&amp;text=YongHo%20Lee&amp;fontSize=48&amp;fontColor=61DAFB&amp;fontAlignY=52&amp;stroke=61DAFB&amp;strokeWidth=1&amp;animation=fadeIn" width="100%" alt="YongHo Lee" />
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:3B1B6D,50:6848C7,100:3978E8&amp;height=190&amp;section=header&amp;text=YongHo%20Lee&amp;fontSize=48&amp;fontColor=67C7E8&amp;fontAlignY=52&amp;stroke=67C7E8&amp;strokeWidth=2&amp;animation=fadeIn" width="100%" alt="YongHo Lee" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1800&amp;color=61DAF&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=44&amp;lines=Vision+AI+Engineer;Computer+Vision+%C2%B7+Edge+AI;Building+Agentic+Systems" width="100%" alt="Vision AI Engineer / Computer Vision · Edge AI / Building Agentic Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;pause=1800&amp;color=A8B8CC&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=44&amp;lines=Vision+AI+Engineer;Vision+AI+%C2%B7+Edge+AI;Building+Agentic+AI+Systems" width="100%" alt="Vision AI Engineer / Vision AI · Edge AI / Building Agentic AI Systems" />
 
 <p><strong>모델을 이해하고, 한계를 검증하고, 쓰임을 만듭니다.</strong></p>
 
