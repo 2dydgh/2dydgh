@@ -40,7 +40,12 @@
 | :--- | :--- | :--- |
 | **Applied Soft Computing** · Elsevier | **27 FPS** · NVIDIA Jetson TX2 | CamVid · Minicity |
 
-`Knowledge Distillation` `Super Resolution` `Semantic Segmentation` `Edge AI`
+<p>
+  <img src="https://img.shields.io/badge/Knowledge_Distillation-263B63?style=flat-square" />
+  <img src="https://img.shields.io/badge/Super_Resolution-E0B36A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Semantic_Segmentation-6F4E37?style=flat-square" />
+  <img src="https://img.shields.io/badge/Edge_AI-2B2B2B?style=flat-square" />
+</p>
 
 [코드 보기 →](https://github.com/2dydgh/KD4SRSS)
 
@@ -49,36 +54,65 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/2dydgh/Document-review-agent-sytem">
+        <img src="https://raw.githubusercontent.com/2dydgh/Document-review-agent-sytem/main/web/public/screenshots/review-screen.png" width="100%" alt="DocSuree" />
+      </a>
       <h3>DocSuree</h3>
       <p><strong>문서를 읽고 원문 근거로 검토하는 AI</strong></p>
       <p>문서 검토·비교 결과를 원문 하이라이트와 함께 제공합니다. 인용을 원문과 대조하는 검증 구조를 갖추고, 능동 탐색 Agent로 확장하고 있습니다.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>vLLM · Qwen3</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-263B63?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-E0B36A?style=flat-square" />
+        <img src="https://img.shields.io/badge/vLLM_%C2%B7_Qwen3-6F4E37?style=flat-square" />
+      </p>
       <p><sub>문서 검토 · 근거 검증 · Agent 개발 중</sub></p>
       <p><a href="https://github.com/2dydgh/Document-review-agent-sytem">코드 보기 →</a></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/2dydgh/Agentic-fall-detection-system">
+        <img src="https://raw.githubusercontent.com/2dydgh/Agentic-fall-detection-system/main/figures/demo_new.gif" width="100%" alt="Agentic Fall Detection" />
+      </a>
       <h3>Agentic Fall Detection</h3>
       <p><strong>영상과 소리로 낙상을 감지하고 대응을 판단하는 관제 시스템</strong></p>
       <p>실시간 감지·알림과 비동기 Agent 분석을 병행합니다. Agent가 사고 이력 조회와 영상 재분석 도구를 선택해 후속 대응을 판단합니다.</p>
-      <p><code>YOLO Pose</code> <code>VLM</code> <code>LangGraph</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/YOLO_Pose-263B63?style=flat-square" />
+        <img src="https://img.shields.io/badge/VLM-E0B36A?style=flat-square" />
+        <img src="https://img.shields.io/badge/LangGraph-6F4E37?style=flat-square" />
+      </p>
       <p><sub>멀티모달 인식 · 실시간 처리 · 도구 선택</sub></p>
       <p><a href="https://github.com/2dydgh/Agentic-fall-detection-system">코드 보기 →</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/2dydgh/Corner-case-bench">
+        <img src="https://raw.githubusercontent.com/2dydgh/Corner-case-bench/main/assets/compare_segmentation.png" width="100%" alt="Corner Case Bench" />
+      </a>
       <h3>Corner-Case-Bench</h3>
       <p><strong>악조건에서 자율주행 인식 모델이 놓치는 객체를 찾는 벤치마크</strong></p>
       <p>안개·폭우·역광 등 합성 코너 케이스를 생성하고 원본과 변형 이미지의 검출·분할 결과를 비교합니다. 조건별·클래스별 취약성을 대시보드로 확인합니다.</p>
-      <p><code>InstructPix2Pix</code> <code>YOLOv8</code> <code>Next.js</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/InstructPix2Pix-263B63?style=flat-square" />
+        <img src="https://img.shields.io/badge/YOLOv8-E0B36A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js-6F4E37?style=flat-square" />
+      </p>
       <p><sub>합성 데이터 · 강건성 평가 · 실패 사례 분석</sub></p>
       <p><a href="https://github.com/2dydgh/Corner-case-bench">코드 보기 →</a></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/2dydgh/Maritime-OSINT-sentry">
+        <img src="https://raw.githubusercontent.com/2dydgh/Maritime-OSINT-sentry/main/static/demos/main.png" width="100%" alt="Maritime Sentry" />
+      </a>
       <h3>Maritime Sentry</h3>
       <p><strong>선박을 추적하고 충돌 위험을 분석하는 해양 관제 플랫폼</strong></p>
       <p>선박·항공기·위성 데이터를 3D 지도에 통합합니다. 공간 필터링과 XGBoost 기반 충돌 위험 예측을 연결해 위험 상황을 시각화합니다.</p>
-      <p><code>FastAPI</code> <code>CesiumJS</code> <code>PostGIS</code> <code>XGBoost</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-263B63?style=flat-square" />
+        <img src="https://img.shields.io/badge/CesiumJS-E0B36A?style=flat-square" />
+        <img src="https://img.shields.io/badge/PostGIS-6F4E37?style=flat-square" />
+        <img src="https://img.shields.io/badge/XGBoost-212529?style=flat-square" />
+      </p>
       <p><sub>실시간 데이터 통합 · 위험 예측 · 지리공간 시각화</sub></p>
       <p><a href="https://github.com/2dydgh/Maritime-OSINT-sentry">코드 보기 →</a></p>
     </td>
