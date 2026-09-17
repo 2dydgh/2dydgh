@@ -1,109 +1,109 @@
-<!-- 타이핑 애니메이션 소개글 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=2dydgh&color=5BC8F5&style=flat-square&label=VISITORS" alt="2dydgh" />
+  <img src="https://komarev.com/ghpvc/?username=2dydgh&amp;color=61DAFB&amp;style=flat-square&amp;label=VISITORS" alt="Profile views" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5BC8F5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+YongHo+Lee+%F0%9F%91%8B;Welcome+to+my+GitHub!+%E2%9C%A8;Vision+AI+Engineer+%F0%9F%94%AD;Python+%26+TypeScript+Lover+%F0%9F%90%8D;Published+in+Applied+Soft+Computing+%F0%9F%93%84;Always+learning+new+things+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:24104F,50:5735B8,100:2563EB&amp;height=190&amp;section=header&amp;text=YongHo%20Lee&amp;fontSize=48&amp;fontColor=61DAFB&amp;fontAlignY=52&amp;stroke=61DAFB&amp;strokeWidth=1&amp;animation=fadeIn" width="100%" alt="YongHo Lee" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1800&amp;color=61DAF&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=44&amp;lines=Vision+AI+Engineer;Computer+Vision+%C2%B7+Edge+AI;Building+Agentic+Systems" width="100%" alt="Vision AI Engineer / Computer Vision · Edge AI / Building Agentic Systems" />
+
+<p><strong>모델을 이해하고, 한계를 검증하고, 쓰임을 만듭니다.</strong></p>
+
+<p>이용호 · Dongguk University · South Korea</p>
+
+<p>
+  <a href="#research">Research</a> &nbsp; / &nbsp;
+  <a href="#selected-projects">Projects</a> &nbsp; / &nbsp;
+  <a href="#toolkit">Toolkit</a>
+</p>
+
 </div>
 
-<br/>
+---
 
-<!-- 소개 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24,5BC8F5&height=200&section=header&text=Vision%20AI%20Engineer&fontSize=45&fontColor=5BC8F5&animation=fadeIn" />
-</div>
+컴퓨터 비전과 모델 경량화를 연구하고, AI를 활용한 검토·관제·콘텐츠 서비스를 만듭니다.
+모델이 **어디에서 실패하는지**, 제한된 자원에서 **어떻게 동작하는지**, 사용자가 **어떤 근거로 결과를 판단할 수 있는지**에 관심이 있습니다.
 
-## 🙋‍♂️ About Me
+데이터 전처리와 학습부터 평가, API, 대시보드까지 하나의 흐름으로 구현합니다.
 
-```python
-class YongHo:
-    name     = "YongHo Lee (이용호)"
-    school   = "Dongguk University 🏫"
-    major    = "Vision AI 🔬"
-    location = "South Korea 🇰🇷"
-    langs    = ["Python 🐍", "JavaScript 🌐", "TypeScript 💙"]
-    interests = ["Computer Vision", "Edge AI", "Model Optimization", "Agentic Systems"]
-    fun_fact  = "Pull Shark 🦈 achievement unlocked!"
-```
+## Research
 
-<br/>
+### KD4SRSS — 가벼운 모델로 더 선명하게 이해하는 장면
 
-## 🛠️ Tech Stack
+**초해상도와 지식 증류를 활용한 경량 시맨틱 세그멘테이션 연구**
 
-### 💻 Languages
-<div>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</div>
+고해상도·저해상도 이미지 쌍을 활용해 경량 모델의 장면 분할 성능을 개선하고,
+정확도와 연산 효율을 함께 평가했습니다.
 
-### 🤖 AI / ML & Vision
-<div>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</div>
+| Publication | Edge Inference | Datasets |
+| :--- | :--- | :--- |
+| **Applied Soft Computing** · Elsevier | **27 FPS** · NVIDIA Jetson TX2 | CamVid · Minicity |
 
-### 🌐 Web
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
+`Knowledge Distillation` `Super Resolution` `Semantic Segmentation` `Edge AI`
 
-### 🔧 Tools
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</div>
+[코드 보기 →](https://github.com/2dydgh/KD4SRSS)
 
-<br/>
+## Selected Projects
 
-## 📊 GitHub Stats
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>DocSuree</h3>
+      <p><strong>문서를 읽고 원문 근거로 검토하는 AI</strong></p>
+      <p>문서 검토·비교 결과를 원문 하이라이트와 함께 제공합니다. 인용을 원문과 대조하는 검증 구조를 갖추고, 능동 탐색 Agent로 확장하고 있습니다.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>vLLM · Qwen3</code></p>
+      <p><sub>문서 검토 · 근거 검증 · Agent 개발 중</sub></p>
+      <p><a href="https://github.com/2dydgh/Document-review-agent-sytem">코드 보기 →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Agentic Fall Detection</h3>
+      <p><strong>영상과 소리로 낙상을 감지하고 대응을 판단하는 관제 시스템</strong></p>
+      <p>실시간 감지·알림과 비동기 Agent 분석을 병행합니다. Agent가 사고 이력 조회와 영상 재분석 도구를 선택해 후속 대응을 판단합니다.</p>
+      <p><code>YOLO Pose</code> <code>VLM</code> <code>LangGraph</code></p>
+      <p><sub>멀티모달 인식 · 실시간 처리 · 도구 선택</sub></p>
+      <p><a href="https://github.com/2dydgh/Agentic-fall-detection-system">코드 보기 →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Corner-Case-Bench</h3>
+      <p><strong>악조건에서 자율주행 인식 모델이 놓치는 객체를 찾는 벤치마크</strong></p>
+      <p>안개·폭우·역광 등 합성 코너 케이스를 생성하고 원본과 변형 이미지의 검출·분할 결과를 비교합니다. 조건별·클래스별 취약성을 대시보드로 확인합니다.</p>
+      <p><code>InstructPix2Pix</code> <code>YOLOv8</code> <code>Next.js</code></p>
+      <p><sub>합성 데이터 · 강건성 평가 · 실패 사례 분석</sub></p>
+      <p><a href="https://github.com/2dydgh/Corner-case-bench">코드 보기 →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Maritime Sentry</h3>
+      <p><strong>선박을 추적하고 충돌 위험을 분석하는 해양 관제 플랫폼</strong></p>
+      <p>선박·항공기·위성 데이터를 3D 지도에 통합합니다. 공간 필터링과 XGBoost 기반 충돌 위험 예측을 연결해 위험 상황을 시각화합니다.</p>
+      <p><code>FastAPI</code> <code>CesiumJS</code> <code>PostGIS</code> <code>XGBoost</code></p>
+      <p><sub>실시간 데이터 통합 · 위험 예측 · 지리공간 시각화</sub></p>
+      <p><a href="https://github.com/2dydgh/Maritime-OSINT-sentry">코드 보기 →</a></p>
+    </td>
+  </tr>
+</table>
 
-<!-- <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=2dydgh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2dydgh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div> -->
+### More Projects
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=2dydgh&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
+| Project | What it does |
+| :--- | :--- |
+| **QCNet on ETD**<br>[코드 보기 →](https://github.com/2dydgh/QCNetonETD_PP) | ETRI 주행 데이터로 차량의 미래 이동 경로를 예측합니다. 데이터 분포 보정부터 QCNet 학습·평가·추론까지 연결합니다. |
+| **ShortKinds**<br>[코드 보기 →](https://github.com/2dydgh/ShortKinds) | 뉴스 기사를 요약하고 이미지와 내레이션을 생성해 1분 쇼츠로 자동 제작합니다. |
 
-<br/>
+## Toolkit
 
-## 🌟 Featured Projects
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python · TypeScript · JavaScript |
+| **Vision & ML** | PyTorch · OpenCV · YOLO · XGBoost |
+| **LLM & Agents** | LangGraph · LangChain · VLM · vLLM · Ollama |
+| **API & Web** | FastAPI · React · Next.js |
+| **Data & Infrastructure** | PostgreSQL · PostGIS · Docker · Git |
 
-### 🧐 [Agentic Fall Detection System](https://github.com/2dydgh/Agentic-fall-detection-system)
-> Agentic fall detection pipeline with **LangGraph**, **YOLO-pose**, and **VLM-based analysis**
->
-> `Python` `LangGraph` `YOLO` `AI Agents` `VLM`
+---
 
-### 📄 [KD4SRSS](https://github.com/2dydgh/KD4SRSS)
-> **Knowledge Distillation for Super Resolution Semantic Segmentation**
-> - Training lightweight segmentation models using SR image pairs (CamVid & Minicity).
-> - **Performance**: Achieved **27 FPS** on Jetson TX2 with **mIoU improvement (52% → 64%)**.
-> - **Optimization**: Reduced parameters by **50~90%** while maintaining segmentation accuracy.
-> - **Publication**: Published in **Applied Soft Computing (Elsevier, IF 6.6, Q1)**.
-> 📰 Published in **[Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)** · Elsevier · IF 6.6 · Q1
->
-> `Python` `Computer Vision` `Semantic Segmentation` `Knowledge Distillation` `Super Resolution`
-
-<br/>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2dydgh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=5BC8F5&line=5BC8F5&point=ffffff" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24,5BC8F5&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontColor=5BC8F5&animation=fadeIn" />
-</div>
+<p align="center">
+  <sub>Computer Vision &nbsp; · &nbsp; Model Efficiency &nbsp; · &nbsp; Robustness &nbsp; · &nbsp; Agentic Systems</sub>
+</p>
