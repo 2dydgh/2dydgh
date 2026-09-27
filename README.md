@@ -8,11 +8,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;pause=1800&amp;color=526B8A&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=44&amp;lines=Vision+AI+Engineer;Vision+AI+%C2%B7+Edge+AI;Building+Agentic+AI+Systems" width="100%" alt="Vision AI Engineer / Vision AI · Edge AI / Building Agentic AI Systems" /> -->
 
-https://github.com/user-attachments/assets/a8d422d2-a6eb-4c5d-a00f-766c686cfe60
+https://github.com/user-attachments/assets/b85ac2b1-fc23-4b16-a2dd-ba0ea242c014
 
-<p><strong>모델을 만들고, 현장에서 쓰이게 합니다.</strong></p>
+<p><strong> "모델을 만들고, 현장에서 쓰이게 합니다." </strong></p>
 
-<p>이용호 · South Korea</p>
+<!-- <p>이용호 · South Korea</p> -->
 
 <p>
   <a href="#research">Research</a> &nbsp; / &nbsp;
@@ -24,12 +24,11 @@ https://github.com/user-attachments/assets/a8d422d2-a6eb-4c5d-a00f-766c686cfe60
 
 ---
 
-컴퓨터 비전과 모델 경량화를 연구하고, AI를 활용한 검토·관제·콘텐츠 서비스를 만듭니다.
-모델이 **어디에서 실패하는지**, 제한된 자원에서 **어떻게 동작하는지**, 사용자가 **어떤 근거로 결과를 판단할 수 있는지**에 관심이 있습니다.
+- Vision AI와 모델 경량화를 연구했고, AI를 활용한 검토·관제·콘텐츠 서비스를 만들었습니다. 
+- 모델이 어디에서 실패하는지, 제한된 자원에서 어떻게 동작하는지, 사용자가 어떤 근거로 결과를 판단할 수 있는지에 초점을 맞췄습니다.
+- 데이터 전처리와 학습·평가부터 API, 웹서비스까지 직접 구현해 왔습니다.
 
-데이터 전처리와 학습부터 평가, API, 대시보드까지 하나의 흐름으로 구현합니다.
-
-## Research
+# Research
 
 ### KD4SRSS — 가벼운 모델로 더 선명하게 이해하는 장면
 
@@ -51,7 +50,7 @@ https://github.com/user-attachments/assets/a8d422d2-a6eb-4c5d-a00f-766c686cfe60
 
 [코드 보기 →](https://github.com/2dydgh/KD4SRSS)
 
-## Selected Projects
+# Projects
 
 <table>
   <tr>
@@ -128,7 +127,7 @@ https://github.com/user-attachments/assets/a8d422d2-a6eb-4c5d-a00f-766c686cfe60
 | **QCNet on ETD**<br>[코드 보기 →](https://github.com/2dydgh/QCNetonETD_PP) | ETRI 주행 데이터로 차량의 미래 이동 경로를 예측합니다. 데이터 분포 보정부터 QCNet 학습·평가·추론까지 연결합니다. |
 | **ShortKinds**<br>[코드 보기 →](https://github.com/2dydgh/ShortKinds) | 뉴스 기사를 요약하고 이미지와 내레이션을 생성해 1분 쇼츠로 자동 제작합니다. |
 
-## Toolkit
+# Toolkit
 
 | Area | Technologies |
 | :--- | :--- |
