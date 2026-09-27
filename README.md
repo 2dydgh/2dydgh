@@ -4,13 +4,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:263B63,50:466FA8,100:6A94C9&amp;height=190&amp;section=header&amp;text=YongHo%20Lee&amp;fontSize=48&amp;fontColor=E0B36A&amp;fontAlignY=52&amp;stroke=E0B36A&amp;strokeWidth=2&amp;animation=fadeIn" width="100%" alt="YongHo Lee" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:263B63,50:466FA8,100:6A94C9&amp;height=190&amp;section=header&amp;text=YongHo%20Lee&amp;fontSize=48&amp;fontColor=E0B36A&amp;fontAlignY=52&amp;stroke=E0B36A&amp;strokeWidth=2&amp;animation=fadeIn" width="100%" alt="YongHo Lee" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;pause=1800&amp;color=526B8A&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=44&amp;lines=Vision+AI+Engineer;Vision+AI+%C2%B7+Edge+AI;Building+Agentic+AI+Systems" width="100%" alt="Vision AI Engineer / Vision AI · Edge AI / Building Agentic AI Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;pause=1800&amp;color=526B8A&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=44&amp;lines=Vision+AI+Engineer;Vision+AI+%C2%B7+Edge+AI;Building+Agentic+AI+Systems" width="100%" alt="Vision AI Engineer / Vision AI · Edge AI / Building Agentic AI Systems" /> -->
 
-<p><strong>모델을 이해하고, 한계를 검증하고, 쓰임을 만듭니다.</strong></p>
+https://github.com/user-attachments/assets/a8d422d2-a6eb-4c5d-a00f-766c686cfe60
 
-<p>이용호 · Dongguk University · South Korea</p>
+<p><strong>모델을 만들고, 현장에서 쓰이게 합니다.</strong></p>
+
+<p>이용호 · South Korea</p>
 
 <p>
   <a href="#research">Research</a> &nbsp; / &nbsp;
