@@ -54,8 +54,8 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/2dydgh/Document-review-agent-sytem">
-        <img src="https://raw.githubusercontent.com/2dydgh/Document-review-agent-sytem/main/web/public/screenshots/review-screen.png" width="100%" alt="DocSuree" />
+      <a href="https://github.com/2dydgh/Document-review-agent-system">
+        <img src="https://raw.githubusercontent.com/2dydgh/Document-review-agent-system/main/web/public/screenshots/review-screen.png" width="100%" alt="DocSuree" />
       </a>
       <h3>DocSuree</h3>
       <p><strong>문서를 읽고 원문 근거로 검토하는 AI</strong></p>
@@ -66,7 +66,7 @@
         <img src="https://img.shields.io/badge/vLLM_%C2%B7_Qwen3-6F4E37?style=flat-square" />
       </p>
       <p><sub>문서 검토 · 근거 검증 · Agent 개발 중</sub></p>
-      <p><a href="https://github.com/2dydgh/Document-review-agent-sytem">코드 보기 →</a></p>
+      <p><a href="https://github.com/2dydgh/Document-review-agent-system">코드 보기 →</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/2dydgh/Agentic-fall-detection-system">
