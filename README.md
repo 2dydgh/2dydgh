@@ -8,15 +8,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;pause=1800&amp;color=526B8A&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=44&amp;lines=Vision+AI+Engineer;Vision+AI+%C2%B7+Edge+AI;Building+Agentic+AI+Systems" width="100%" alt="Vision AI Engineer / Vision AI · Edge AI / Building Agentic AI Systems" /> -->
 
-https://github.com/user-attachments/assets/b85ac2b1-fc23-4b16-a2dd-ba0ea242c014
+<a href="https://2dydgh.github.io"><img src="assets/intro.webp" width="100%" alt="이용호 · AI Engineer 30초 소개 영상 — 누르면 포트폴리오 사이트로 이동" /></a>
 
 <p><strong> "모델을 만들고, 현장에서 쓰이게 합니다." </strong></p>
 
 <!-- <p>이용호 · South Korea</p> -->
 
 <p>
+  <a href="https://2dydgh.github.io"><strong>Portfolio ↗</strong></a> &nbsp; / &nbsp;
   <a href="#research">Research</a> &nbsp; / &nbsp;
-  <a href="#selected-projects">Projects</a> &nbsp; / &nbsp;
+  <a href="#projects">Projects</a> &nbsp; / &nbsp;
   <a href="#toolkit">Toolkit</a>
 </p>
 
@@ -56,7 +57,7 @@ https://github.com/user-attachments/assets/b85ac2b1-fc23-4b16-a2dd-ba0ea242c014
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/2dydgh/Document-review-agent-system">
-        <img src="https://raw.githubusercontent.com/2dydgh/Document-review-agent-system/main/web/public/screenshots/review-screen.png" width="100%" alt="DocSuree" />
+        <img src="https://raw.githubusercontent.com/2dydgh/Document-review-agent-system/main/docs/manual/screens/review.png" width="100%" alt="DocSuree" />
       </a>
       <h3>DocSuree</h3>
       <p><strong>문서를 읽고 원문 근거로 검토하는 AI</strong></p>
@@ -71,7 +72,7 @@ https://github.com/user-attachments/assets/b85ac2b1-fc23-4b16-a2dd-ba0ea242c014
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/2dydgh/Agentic-fall-detection-system">
-        <img src="https://raw.githubusercontent.com/2dydgh/Agentic-fall-detection-system/main/figures/demo_new.gif" width="100%" alt="Agentic Fall Detection" />
+        <img src="assets/fall-detection.jpg" width="100%" alt="Agentic Fall Detection" />
       </a>
       <h3>Agentic Fall Detection</h3>
       <p><strong>영상과 소리로 낙상을 감지하고 대응을 판단하는 관제 시스템</strong></p>
